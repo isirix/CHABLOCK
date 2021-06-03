@@ -1,0 +1,8 @@
+c:\users\isiri\documents\visual studio 2012\Projects\CHABLOCK\CHABLOCK\bin\Debug\CHABLOCK.exe
+c:\users\isiri\documents\visual studio 2012\Projects\CHABLOCK\CHABLOCK\bin\Debug\CHABLOCK.pdb
+c:\users\isiri\documents\visual studio 2012\Projects\CHABLOCK\CHABLOCK\obj\Debug\CHABLOCK.csprojResolveAssemblyReference.cache
+c:\users\isiri\documents\visual studio 2012\Projects\CHABLOCK\CHABLOCK\obj\Debug\CHABLOCK.Form1.resources
+c:\users\isiri\documents\visual studio 2012\Projects\CHABLOCK\CHABLOCK\obj\Debug\CHABLOCK.Properties.Resources.resources
+c:\users\isiri\documents\visual studio 2012\Projects\CHABLOCK\CHABLOCK\obj\Debug\CHABLOCK.csproj.GenerateResource.Cache
+c:\users\isiri\documents\visual studio 2012\Projects\CHABLOCK\CHABLOCK\obj\Debug\CHABLOCK.exe
+c:\users\isiri\documents\visual studio 2012\Projects\CHABLOCK\CHABLOCK\obj\Debug\CHABLOCK.pdb
